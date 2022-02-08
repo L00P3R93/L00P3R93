@@ -10,10 +10,12 @@
 
 Hello, I am [Vincent Kioko](https://sntaks.me/), a passionate self-taught Full Stack Web Developer and a freelance software Developer from Kenya. I enjoy visualizing and bringing to life ideas by being meticulous in execution while taking great care of the architecture and quality of code.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
   
-- 💼 any freelance work? do reach, [email](mailto:vincentkioko@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any freelance work? do reach, [email](mailto:vincentkioko@gmail.com) :)
+- 💬 Ask me about anything, i am happy to help;
+
+<br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=L00P3R93&theme=gotham&show_icons=true&count_private=true)
 
