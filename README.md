@@ -11,8 +11,8 @@
 
 Hello, I am [Vincent Kioko](https://sntaks.me/), a passionate self-taught Full Stack Web Developer and a freelance software Developer from Kenya. I enjoy visualizing and bringing to life ideas by being meticulous in execution while taking great care of the architecture and quality of code.
   
-- 💼 Any freelance work? do reach, [email](mailto:vincentkioko@gmail.com) :)
-- 💬 Ask me about anything, i am happy to help;
+- 💼 Any freelance work? Reach me through, [email](mailto:vincentkioko@gmail.com) :)
+- 💬 Feel free to ask me about anything;
 
 <br>
 
