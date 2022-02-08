@@ -22,6 +22,12 @@ Hello, I am [Vincent Kioko](https://sntaks.me/), a passionate self-taught Full S
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=L00P3R93&theme=neon-palenight&hide_border=true)
 
+## Repos
+
+[![Meko Bites](https://github-readme-stats.vercel.app/api/pin/?username=L00P3R93&repo=fastapi-web-starter&show_owner=true&theme=gotham)](https://github.com/L00P3R93/meko-bites)
+
+[![FABOTS](https://github-readme-stats.vercel.app/api/pin/?username=L00P3R93&repo=gitstart&show_owner=true&theme=gotham)](https://github.com/L00P3R93/fabots)
+
 
 **Languages and Tools:**  
 
