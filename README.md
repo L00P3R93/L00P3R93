@@ -6,9 +6,19 @@
   <img align="left" alt="Vincent's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br />
+
+Hello, I am [Vincent Kioko](https://sntaks.me/), a passionate self-taught Full Stack Web Developer and a freelance software Developer from Kenya. I enjoy visualizing and bringing to life ideas by being meticulous in execution while taking great care of the architecture and quality of code.
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:vincentkioko@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=L00P3R93&theme=gotham&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=L00P3R93)
+
 <!--
 **L00P3R93/L00P3R93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
