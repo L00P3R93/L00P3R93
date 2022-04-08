@@ -6,7 +6,7 @@
   <img align="left" alt="Vincent's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://komarev.com/ghpvc/?username=L00P3R93)
 <br>
 
 Hello, I am [Vincent Kioko](https://sntaks.me/), a passionate self-taught Full Stack Web Developer and a freelance software Developer from Kenya. I enjoy visualizing and bringing to life ideas by being meticulous in execution while taking great care of the architecture and quality of code.
@@ -43,4 +43,4 @@ Hello, I am [Vincent Kioko](https://sntaks.me/), a passionate self-taught Full S
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
 
-![](https://komarev.com/ghpvc/?username=L00P3R93)
+
