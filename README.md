@@ -24,7 +24,7 @@ Hello, I am [Vincent Kioko](https://sntaks.me/), a passionate self-taught Full S
 
 ## Repos
 
-[![P_API](https://github-readme-stats.vercel.app/api/pin/?username=L00P3R93&repo=p_api&show_owner=true&theme=gotham)](https://github.com/L00P3R93/p_api)
+[![PORTFOLIO](https://github-readme-stats.vercel.app/api/pin/?username=L00P3R93&repo=portfolio&show_owner=true&theme=gotham)](https://github.com/L00P3R93/portfolio)
 
 [![FABOTS](https://github-readme-stats.vercel.app/api/pin/?username=L00P3R93&repo=fabots&show_owner=true&theme=gotham)](https://github.com/L00P3R93/fabots)
 
