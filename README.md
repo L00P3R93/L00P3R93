@@ -26,7 +26,7 @@ Hello, I am [Vincent Kioko](https://sntaks.me/), a passionate self-taught Full S
 
 [![PORTFOLIO](https://github-readme-stats.vercel.app/api/pin/?username=L00P3R93&repo=portfolio&show_owner=true&theme=gotham)](https://github.com/L00P3R93/portfolio)
 
-[![FABOTS](https://github-readme-stats.vercel.app/api/pin/?username=L00P3R93&repo=fabots&show_owner=true&theme=gotham)](https://github.com/L00P3R93/fabots)
+[![DARAJA-MPESA](https://github-readme-stats.vercel.app/api/pin/?username=L00P3R93&repo=daraja-mpesa&show_owner=true&theme=gotham)](https://github.com/L00P3R93/daraja-mpesa)
 
 
 **Languages and Tools:**  
