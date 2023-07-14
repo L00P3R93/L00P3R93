@@ -1,9 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/S_ntaks">
-  <img align="left" alt="Vincent Kioko | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Vincent Kioko | Twitter" width="22px" src="/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vincent-kioko-94a17b117/">
-  <img align="left" alt="Vincent's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Vincent's LinkedIN" width="22px" src="/linkedin.svg" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=L00P3R93)
