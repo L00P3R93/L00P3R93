@@ -22,6 +22,8 @@ Hello, I am [Vincent Kioko](https://sntaks.me/), a passionate self-taught Full S
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=L00P3R93&theme=neon-palenight&hide_border=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=L00P3R93)](https://git.io/streak-stats)
+
 ## Repos
 
 [![PORTFOLIO](https://github-readme-stats.vercel.app/api/pin/?username=L00P3R93&repo=portfolio&show_owner=true&theme=gotham)](https://github.com/L00P3R93/portfolio)
