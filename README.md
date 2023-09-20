@@ -20,9 +20,7 @@ Hello, I am [Vincent Kioko](https://sntaks.me/), a passionate self-taught Full S
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=L00P3R93&layout=compact&theme=gotham)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=L00P3R93&theme=neon-palenight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=L00P3R93)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=L00P3R93&theme=dark)](https://git.io/streak-stats)
 
 ## Repos
 
