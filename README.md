@@ -102,10 +102,12 @@ I'm a self-taught **Full Stack Web Developer** and freelance software engineer f
 
 ---
 
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/L00P3R93/L00P3R93/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
   <sub>⬆️ Generated automatically by the GitHub Action below</sub>
 </div>
+-->
 
 <div align="center">
 
