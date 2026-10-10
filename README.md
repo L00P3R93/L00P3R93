@@ -13,7 +13,7 @@
   <a href="https://sntaks.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-sntaks.me-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=L00P3R93&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sntaks&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -58,16 +58,16 @@ I'm a self-taught **Full Stack Web Developer** and freelance software engineer f
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=L00P3R93&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Vincent's GitHub Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=L00P3R93&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=sntaks&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Vincent's GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sntaks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=L00P3R93&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sntaks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L00P3R93&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sntaks&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
@@ -75,28 +75,28 @@ I'm a self-taught **Full Stack Web Developer** and freelance software engineer f
 ### 📌 Featured Repos
 
 <div align="center">
-  <a href="https://github.com/L00P3R93/trader">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=L00P3R93&repo=trader&show_owner=true&theme=tokyonight&hide_border=true" alt="Trader Repo" />
+  <a href="https://github.com/sntaks/trader">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sntaks&repo=trader&show_owner=true&theme=tokyonight&hide_border=true" alt="Trader Repo" />
   </a>
-  <a href="https://github.com/L00P3R93/kadi">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=L00P3R93&repo=kadi&show_owner=true&theme=tokyonight&hide_border=true" alt="Kadi Repo" />
+  <a href="https://github.com/sntaks/kadi">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sntaks&repo=kadi&show_owner=true&theme=tokyonight&hide_border=true" alt="Kadi Repo" />
   </a>
-  <a href="https://github.com/L00P3R93/gms">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=L00P3R93&repo=gms&show_owner=true&theme=tokyonight&hide_border=true" alt="GMS Repo" />
+  <a href="https://github.com/sntaks/gms">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sntaks&repo=gms&show_owner=true&theme=tokyonight&hide_border=true" alt="GMS Repo" />
   </a>
   <br/>
-  <a href="https://github.com/L00P3R93/v2.pos">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=L00P3R93&repo=v2.pos&show_owner=true&theme=tokyonight&hide_border=true" alt="v2.pos Repo" />
+  <a href="https://github.com/sntaks/v2.pos">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sntaks&repo=v2.pos&show_owner=true&theme=tokyonight&hide_border=true" alt="v2.pos Repo" />
   </a>
-  <a href="https://github.com/L00P3R93/credence">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=L00P3R93&repo=credence&show_owner=true&theme=tokyonight&hide_border=true" alt="Credence Repo" />
+  <a href="https://github.com/sntaks/credence">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sntaks&repo=credence&show_owner=true&theme=tokyonight&hide_border=true" alt="Credence Repo" />
   </a>
 </div>
 
 <!--
   Add more pinned repos here in the same format, e.g.:
-  <a href="https://github.com/L00P3R93/REPO_NAME">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=L00P3R93&repo=REPO_NAME&show_owner=true&theme=tokyonight&hide_border=true" alt="REPO_NAME Repo" />
+  <a href="https://github.com/sntaks/REPO_NAME">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sntaks&repo=REPO_NAME&show_owner=true&theme=tokyonight&hide_border=true" alt="REPO_NAME Repo" />
   </a>
 -->
 
@@ -104,7 +104,7 @@ I'm a self-taught **Full Stack Web Developer** and freelance software engineer f
 
 <!--
 <div align="center">
-  <img src="https://raw.githubusercontent.com/L00P3R93/L00P3R93/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/sntaks/sntaks/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
   <sub>⬆️ Generated automatically by the GitHub Action below</sub>
 </div>
 -->
