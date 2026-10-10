@@ -19,19 +19,19 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a self-taught **Full Stack Web Developer** and freelance software engineer from Kenya. I like turning ideas into real, working products — with a strong focus on clean architecture, readable code, and getting the details right.
 
-- 🔭 Currently building and maintaining open-source tools for the Kenyan dev community (Daraja/M-Pesa integrations)
-- 💼 **Freelance available** — reach out via [email](mailto:vincentkioko@gmail.com) or [Twitter/X](https://twitter.com/S_ntax)
-- 🌱 Always leveling up across the JS/PHP full-stack ecosystem
-- 💬 Ask me about web dev, API integrations, or freelancing in tech
-- ⚡ Fun fact: I enjoy turning "that would be cool" ideas into shipped products
+- Currently building and maintaining open-source tools for the Kenyan dev community (Daraja/M-Pesa integrations)
+- **Freelance available** — reach out via [email](mailto:vincentkioko@gmail.com) or [Twitter/X](https://twitter.com/S_ntax)
+- Always leveling up across the JS/PHP full-stack ecosystem
+- Ask me about web dev, API integrations, or freelancing in tech
+- Fun fact: I enjoy turning "that would be cool" ideas into shipped products
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -55,7 +55,7 @@ I'm a self-taught **Full Stack Web Developer** and freelance software engineer f
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=sntaks&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Vincent's GitHub Stats" />
@@ -72,7 +72,7 @@ I'm a self-taught **Full Stack Web Developer** and freelance software engineer f
 
 ---
 
-### 📌 Featured Repos
+### Featured Repos
 
 <div align="center">
   <a href="https://github.com/sntaks/trader">
@@ -102,12 +102,10 @@ I'm a self-taught **Full Stack Web Developer** and freelance software engineer f
 
 ---
 
-<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/sntaks/sntaks/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
   <sub>⬆️ Generated automatically by the GitHub Action below</sub>
 </div>
--->
 
 <div align="center">
 
